@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.authors = ["Jay"]
   spec.email = ["jayeshpatil8041@gmail.com"]
 
-  spec.summary = "TODO: A gem for generating tip values base on input number."
+  spec.summary = "A gem for generating tip values base on input number."
   spec.homepage = "https://github.com/jayeshpatil01/tippy_jay"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
